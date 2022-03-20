@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="14" time="0.565">
+    <testcase classname="Search Item" name="Search an item and verify results text" time="0.155">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I want to search "iphonsfsdfe"........................................passed
+And results text is displayed with "About"..................................passed
+And number is 100.43........................................................passed
+And the following animals...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="My car story." time="0.002">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I have a "43" cars....................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="My car story. 2" time="0.002">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I have a "367" cars...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="My car story. 3" time="0.002">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I have a "2.6" cars...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="My car story. 4" time="0.001">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I have a "fas" cars...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Poker Casino" time="0.004">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+When Poker has "fe" card....................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Poker Casino 2" time="0.009">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+When Poker has "36rgd7" card................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Poker Casino 3" time="0.001">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+When Poker has "2fd.6" card.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Poker Casino 4" time="0.001">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+When Poker has "fas" card...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Lotto winning" time="0.001">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I won one dollar dollars..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Lotto winning 2" time="0.001">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I won fiften dollar dollars...........................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Lotto winning 3" time="0.001">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I won one twenty dollar dollars.......................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="Lotto winning 4" time="0.002">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+Given I won ninety one dollar dollars.......................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Search Item" name="animals again" time="0.002">
+        <system-out>
+            <![CDATA[Given Background is running before scenario.................................passed
+And the following animals...................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
