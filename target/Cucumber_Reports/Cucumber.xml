@@ -1,104 +1,105 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="14" time="0.565">
-    <testcase classname="Search Item" name="Search an item and verify results text" time="0.155">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I want to search "iphonsfsdfe"........................................passed
-And results text is displayed with "About"..................................passed
-And number is 100.43........................................................passed
-And the following animals...................................................passed
-]]>
-        </system-out>
+<testsuite errors="0" failures="34" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="34" time="0.263">
+    <testcase classname="Slider Functionality" name="_2" time="0.063">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="My car story." time="0.002">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I have a "43" cars....................................................passed
-]]>
-        </system-out>
+    <testcase classname="Slider Functionality" name="_3" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="My car story. 2" time="0.002">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I have a "367" cars...................................................passed
-]]>
-        </system-out>
+    <testcase classname="Slider Functionality" name="_4" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="My car story. 3" time="0.002">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I have a "2.6" cars...................................................passed
-]]>
-        </system-out>
+    <testcase classname="Registration" name="_2" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="My car story. 4" time="0.001">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I have a "fas" cars...................................................passed
-]]>
-        </system-out>
+    <testcase classname="Registration" name="_3" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Poker Casino" time="0.004">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-When Poker has "fe" card....................................................passed
-]]>
-        </system-out>
+    <testcase classname="Registration" name="_4" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Poker Casino 2" time="0.009">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-When Poker has "36rgd7" card................................................passed
-]]>
-        </system-out>
+    <testcase classname="Inquiry Form" name="_2" time="0.002">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Poker Casino 3" time="0.001">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-When Poker has "2fd.6" card.................................................passed
-]]>
-        </system-out>
+    <testcase classname="Inquiry Form" name="_3" time="0.002">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Poker Casino 4" time="0.001">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-When Poker has "fas" card...................................................passed
-]]>
-        </system-out>
+    <testcase classname="Inquiry Form" name="_4" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Lotto winning" time="0.001">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I won one dollar dollars..............................................passed
-]]>
-        </system-out>
+    <testcase classname="Inquiry Form" name="_5" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Lotto winning 2" time="0.001">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I won fiften dollar dollars...........................................passed
-]]>
-        </system-out>
+    <testcase classname="Inquiry Form" name="_6" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Lotto winning 3" time="0.001">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I won one twenty dollar dollars.......................................passed
-]]>
-        </system-out>
+    <testcase classname="Inquiry Form" name="_7" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="Lotto winning 4" time="0.002">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-Given I won ninety one dollar dollars.......................................passed
-]]>
-        </system-out>
+    <testcase classname="Login" name="_2" time="0.003">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Search Item" name="animals again" time="0.002">
-        <system-out>
-            <![CDATA[Given Background is running before scenario.................................passed
-And the following animals...................................................passed
-]]>
-        </system-out>
+    <testcase classname="Login" name="_3" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Login" name="_4" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Request A Quote" name="_2" time="0.003">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Request A Quote" name="_3" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Request A Quote" name="_4" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="User Search Products" name="_2" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="User Search Products" name="_3" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="User Search Products" name="_4" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Financing page feature" name="_2" time="0.002">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Financing page feature" name="_3" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Financing page feature" name="_4" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Financing page feature" name="_5" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Financing page feature" name="_6" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Home Page Feature" name="_2" time="0.004">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Home Page Feature" name="_3" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Shop as guest" name="_2" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Shop as guest" name="_3" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Shop as guest" name="_4" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Guest can get shipping cost." name="_2" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Guest can get shipping cost." name="_3" time="0">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+    <testcase classname="Guest can get shipping cost." name="_4" time="0.001">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
 </testsuite>

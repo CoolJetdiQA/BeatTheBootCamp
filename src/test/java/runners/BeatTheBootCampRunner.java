@@ -4,18 +4,19 @@ import org.junit.runner.RunWith;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
+
 @RunWith(Cucumber.class)
 @CucumberOptions(		
 		plugin = {	"pretty", "json:target/JSON_Reports/Cucumber.json",
-					"junit:target/Cucumber_Reports/Cucumber.xml",
-					"html:target/HTML_Reports/index.html"},
+				"junit:target/Cucumber_Reports/Cucumber.xml",
+		"html:target/HTML_Reports/index.html"},
 		dryRun = false,
-		features = {"features/ikeahome.feature"},
+		features = {"features"},
 		glue = {"stepdefinitions"},
 		monochrome = true
-		) 
+		)
+public class BeatTheBootCampRunner {
 
-// Similar to TestNG XML file
-public class CuckesRunner {
+	public BeatTheBootCampRunner() {} 
 
 }
