@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="34" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="34" time="0.263">
-    <testcase classname="Slider Functionality" name="_2" time="0.063">
+<testsuite errors="0" failures="34" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="34" time="0.268">
+    <testcase classname="Slider Functionality" name="_2" time="0.054">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Slider Functionality" name="_3" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Slider Functionality" name="_4" time="0">
+    <testcase classname="Slider Functionality" name="_4" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Registration" name="_2" time="0.001">
+    <testcase classname="Registration" name="_2" time="0.002">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Registration" name="_3" time="0.001">
+    <testcase classname="Registration" name="_3" time="0.005">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Registration" name="_4" time="0.001">
+    <testcase classname="Registration" name="_4" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Inquiry Form" name="_2" time="0.002">
+    <testcase classname="Inquiry Form" name="_2" time="0.003">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Inquiry Form" name="_3" time="0.002">
+    <testcase classname="Inquiry Form" name="_3" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Inquiry Form" name="_4" time="0">
+    <testcase classname="Inquiry Form" name="_4" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Inquiry Form" name="_5" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Inquiry Form" name="_6" time="0">
+    <testcase classname="Inquiry Form" name="_6" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Inquiry Form" name="_7" time="0.001">
+    <testcase classname="Inquiry Form" name="_7" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Login" name="_2" time="0.003">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Login" name="_3" time="0">
+    <testcase classname="Login" name="_3" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Login" name="_4" time="0">
@@ -51,16 +51,16 @@
     <testcase classname="Request A Quote" name="_3" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Request A Quote" name="_4" time="0">
+    <testcase classname="Request A Quote" name="_4" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="User Search Products" name="_2" time="0.001">
+    <testcase classname="User Search Products" name="_2" time="0.003">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="User Search Products" name="_3" time="0.001">
+    <testcase classname="User Search Products" name="_3" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="User Search Products" name="_4" time="0.001">
+    <testcase classname="User Search Products" name="_4" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Financing page feature" name="_2" time="0.002">
@@ -69,34 +69,34 @@
     <testcase classname="Financing page feature" name="_3" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Financing page feature" name="_4" time="0.001">
+    <testcase classname="Financing page feature" name="_4" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Financing page feature" name="_5" time="0">
+    <testcase classname="Financing page feature" name="_5" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Financing page feature" name="_6" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Home Page Feature" name="_2" time="0.004">
+    <testcase classname="Home Page Feature" name="_2" time="0.002">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Home Page Feature" name="_3" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Shop as guest" name="_2" time="0">
+    <testcase classname="Shop as guest" name="_2" time="0.002">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Shop as guest" name="_3" time="0">
+    <testcase classname="Shop as guest" name="_3" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Shop as guest" name="_4" time="0">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Guest can get shipping cost." name="_2" time="0.001">
+    <testcase classname="Guest can get shipping cost." name="_2" time="0.002">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
-    <testcase classname="Guest can get shipping cost." name="_3" time="0">
+    <testcase classname="Guest can get shipping cost." name="_3" time="0.001">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>
     </testcase>
     <testcase classname="Guest can get shipping cost." name="_4" time="0.001">
